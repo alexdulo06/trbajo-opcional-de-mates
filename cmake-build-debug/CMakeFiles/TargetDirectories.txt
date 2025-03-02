@@ -1,0 +1,3 @@
+C:/Users/Alex/OneDrive/Escritorio/trbajo-opcional-de-mates/cmake-build-debug/CMakeFiles/trbajo_opcional_de_mates.dir
+C:/Users/Alex/OneDrive/Escritorio/trbajo-opcional-de-mates/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alex/OneDrive/Escritorio/trbajo-opcional-de-mates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
